@@ -1,6 +1,5 @@
 # A program to print boxes to the command line
 
-
 def is_point_on_box_edge(x, y, dims):
     """Determine if cell (x, y) is on the edge of the box described by dims
 
