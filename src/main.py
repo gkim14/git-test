@@ -1,5 +1,6 @@
 # A program to print boxes to the command line
 
+# main: take user input for dimensions of box to print
 def main():
     while True:
         try:
@@ -14,3 +15,4 @@ def main():
             print("Please enter an integer value")
 
         # Call print_box function with dimensions
+        
